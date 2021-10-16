@@ -1,3 +1,3 @@
 # Kickstart-Solution
 
-This repository will contain solution of kickstart problem in C++ language.
+This repository will contain solutions of kickstart problems in C++ language.
